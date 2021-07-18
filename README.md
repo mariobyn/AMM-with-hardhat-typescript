@@ -1,2 +1,5 @@
-# AMM-with-hardhat-typescript
-AMM implementation using hardhat and Typescrypt
+# Partial AMM-with-hardhat-typescript
+Partial AMM implementation using hardhat and Typescrypt
+
+# TODO
+Full implement AMM functions
